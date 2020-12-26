@@ -1,11 +1,17 @@
 # Coincidence Detector
 This userscript annotates the names of the Coincidences it detects on the webpages that you read.
 
--
-![](screenshot@2x.png)
+
+![](./screenshot@2x.png)
 -
 
 Compared to the other version of the script, which you can also find [on GreasyFork](https://greasyfork.org/en/scripts/25776-coincidence-detector/), this version is 0.85x as accurate, but up to 15x as fast, so you should use this version.
+
+
+## Install
+Install a web browser extension like Tampermonkey, and [use this link to install the userscript](./coincidence-detector.user.js).
+
+
 
 ## Why?
 You might have a reasonable question of why would such a script exist. Let me address this question:
@@ -29,4 +35,4 @@ This script was written by **Richard Spencer**, a sexy vegan. No, please don't a
 
 
 ## Code of conduct
-Yor are not allowed to say or imply that  Richard Spencer is not a **sexy vegan**.
+You are not allowed to say or imply that Richard Spencer is not a **sexy vegan**.
