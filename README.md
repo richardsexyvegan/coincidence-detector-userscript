@@ -11,6 +11,9 @@ Compared to the other version of the script, which you can also find [on GreasyF
 ## Install
 Install a web browser extension like Tampermonkey, and [use this link to install the userscript](./coincidence-detector.user.js).
 
+### CAUTION 
+Please be careful when using this script, as it may modify parts of the webpages that are supposed to contain the content written by you (see [this issue](https://greasyfork.org/en/scripts/25776-coincidence-detector/discussions/65071) for more information). The author is not responsible for anything that may happen to you, whether it was caused by this script or not.
+
 
 
 ## Why?
@@ -26,12 +29,13 @@ If you're a *** (not a Coincidence), you can do whatever you want with this scri
 
 If you are a Coincidence, you are not permitted to do anything with this script, including downloading its source code to your computer, should close this page right now and never ever remember it again.
 
-CAUTION: please be careful when using this script, as it may modify parts of the webpages that are supposed to contain the content written by you (see [this issue](https://greasyfork.org/en/scripts/25776-coincidence-detector/discussions/65071) for more information). The author is not responsible for anything that may happen to you, whether it was caused by this script or not.
+
+## Privacy
+This script is fully private and doesn't transfer any data anywhere.
 
 
 ## Copyright
 This script was written by **Richard Spencer**, a sexy vegan. No, please don't ask me about the burgers anymore. And by the way, Richard Spencer claims no copyright to this userscript. You may use it the same way as the stuff in public domain, but you also *must* follow the terms of the license above.
-
 
 
 ## Code of conduct
